@@ -12,3 +12,5 @@ Es un espacio personal desarrollado para compartir mis gustos, ideas, pensamient
 
 - HTML
 - CSS
+
+https://docosovo.github.io/my-personal-blog/
